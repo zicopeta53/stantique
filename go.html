@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<title>Weiterleitung zu Etsy</title>
+<script>
+  var id = new URLSearchParams(window.location.search).get('id');
+  var target = id ? ('https://www.etsy.com/listing/' + encodeURIComponent(id)) : 'https://www.etsy.com/shop/Stantique25';
+  window.location.replace(target);
+</script>
+</head>
+<body>
+<p>Weiterleitung zu Etsy … <a href="https://www.etsy.com/shop/Stantique25">Falls nichts passiert, hier klicken.</a></p>
+</body>
+</html>
