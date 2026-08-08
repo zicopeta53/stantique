@@ -343,7 +343,265 @@ Abo-Motor. Nicht: teurere Kamera, 4K, Overlays.
 
 ---
 
-## 7. Was ich von dir brauche
+## 7. Variante Wald: geht das?
+
+Kurzantwort: **ein Dauerstream von einem Baum im öffentlichen Wald — nein.** Drei
+Varianten drumherum funktionieren aber, und eine davon ist sogar besser als der
+ursprüngliche Plan.
+
+### Warum der Baum im Wald ausfällt
+
+**Eigentum.** Jeder Wald gehört jemandem — Land, Kommune, Kirche oder privat. Das
+Betretungsrecht nach § 14 Bundeswaldgesetz und den Landeswaldgesetzen erlaubt dir, dort
+spazieren zu gehen. Es erlaubt nicht, Technik zu montieren. Ohne schriftliche Erlaubnis des
+Waldbesitzers ist das nicht zulässig, und Schrauben oder Nägel im Stamm sind
+Sachbeschädigung. Forstbetriebe reagieren darauf besonders empfindlich: Metall im Holz
+zerstört später die Sägeblätter im Sägewerk.
+
+**Datenschutz.** Wildkameras im Wald sind schon ohne Stream heikel. Weil jeder den Wald
+betreten darf, ist er ein öffentlich zugänglicher Bereich — Aufnahmen lassen sich nur über
+berechtigtes Interesse rechtfertigen. In der Nähe von Wegen, Grillstellen und Spielplätzen
+ist es unzulässig, und es braucht ein Hinweisschild mit Kontaktdaten des Verantwortlichen
+in räumlichem Bezug zur Kamera. Der rheinland-pfälzische Datenschutzbeauftragte hat Jägern
+deshalb 5.000 € Bußgeld angedroht. Ein **Livestream ins offene Internet** ist noch einmal
+eine Größenordnung heftiger als eine Kamera, die auf SD-Karte aufzeichnet.
+
+**Jagd- und Naturschutzrecht.** Wildkameras sind in mehreren Bundesländern dem
+Jagdausübungsberechtigten vorbehalten. In Naturschutzgebieten, FFH-Gebieten und
+Nationalparks sind sie in der Regel ganz verboten. Und Brutplätze geschützter Arten zu
+filmen kann unter die Zugriffsverbote des § 44 BNatSchG fallen — die bekannten
+Horstkameras (Storch, Uhu, Seeadler) laufen alle mit Genehmigung der Naturschutzbehörde.
+
+**Strom.** 24 W dauerhaft sind 576 Wh am Tag. Unter Kronendach liefert ein Solarpanel nur
+einen Bruchteil des Freilandertrags, und im deutschen Dezember teilweise tagelang fast
+nichts. Realistisch bräuchtest du rund 400 W Panel und 200 Ah LiFePO4 — und es fällt im
+Winter trotzdem aus.
+
+**Internet.** Der Stream erzeugt 1,6 bis 2 TB Upload im Monat. Echte Unlimited-Tarife gibt
+es (1&1, o2 Free Unlimited), sie sind aber auf Handynutzung ausgelegt; ein durchgehender
+Upload im Terabyte-Bereich ist genau der Fall, für den die AGB-Klauseln zur missbräuchlichen
+Nutzung geschrieben sind. Dazu kommt: Waldstandorte haben oft schwachen Empfang, und Upload
+ist immer die schwächere Richtung.
+
+**Diebstahl.** Wildkameras verschwinden im Wald regelmäßig. Ein sichtbarer Kasten mit
+Solarpanel daneben ist ein Magnet.
+
+Unterm Strich: **1.000 bis 1.600 € Aufbau plus 30–50 € im Monat**, mit ernsthafter
+Wahrscheinlichkeit, dass die Anlage im November ausfällt — gegenüber 545 € für die Terrasse,
+die einfach läuft.
+
+### W1 — Waldrand statt Wald
+
+**Die beste Variante.** Wenn dein Grundstück oder das eines Bekannten an Wald grenzt: Kamera
+vom eigenen Grund aus in den Waldrand richten. Strom und Netzwerk kommen aus dem Haus,
+rechtlich stehst du auf eigenem Boden, und der Bildeindruck ist Wald.
+
+Waldränder haben außerdem die höchste Artendichte im ganzen Wald — dort ist mehr los als
+tief im Bestand. Mehrkosten gegenüber dem Terrassenplan: ein längeres Netzwerkkabel und
+eventuell eine Kamera mit mehr Zoom, also **50 bis 100 €**.
+
+### W2 — Mit Erlaubnis, an einem Gebäude im Wald
+
+Forsthütte, Jagdhütte, Wanderheim, Wildgehege, Waldkindergarten, Waldparkplatz: Wo es Strom
+gibt, ist der Rest exakt der Plan von oben. Der Weg dahin führt über Forstamt, Waldbesitzer
+oder Jagdpächter — und zwar mit einem konkreten Vorschlag: was zu sehen sein soll, wohin die
+Kamera schaut, dass kein Weg im Bild ist, wer verantwortlich zeichnet.
+
+Naturschutzverbände wie NABU oder LBV betreiben selbst Horstkameras und suchen dafür
+gelegentlich technische Unterstützung. Das ist der realistischste Türöffner, wenn du keinen
+eigenen Wald hast.
+
+### W3 — Wildkamera ohne Stream, als Shorts-Zulieferer
+
+**Die Kombination, die ich tatsächlich empfehle.** Eine batteriebetriebene Wildkamera nimmt
+auf SD-Karte auf, du holst die Karte alle ein bis zwei Wochen. Kein Stream, kein Strom, kein
+Internet, kein Livestream-Datenschutzproblem. Die Erlaubnis des Waldbesitzers brauchst du
+trotzdem, und in Wegnähe geht es weiterhin nicht. Kosten: **80 bis 150 €**.
+
+Warum das so gut passt: Der Terrassenstream liefert die **4.000 Wiedergabestunden**, die
+Waldclips liefern die **Shorts, die die 1.000 Abonnenten bringen** — genau der Flaschenhals
+aus Phase 5. Fuchs, Dachs oder Reh nachts vor der Kamera funktionieren als Short deutlich
+besser als eine Blaumeise am Futterhaus.
+
+**Fazit: Terrasse streamen, Wald filmen.** Der Baum im Wald ist der teuerste,
+unzuverlässigste und rechtlich heikelste denkbare Ort für einen Dauerstream — aber als
+Materiallieferant für Shorts ist der Wald genau richtig.
+
+---
+
+## 8. Belohnungssystem: Zahlung löst Mechanik aus
+
+Das ist der stärkste Gedanke bisher, und zwar aus einem Grund, der im Plan schon markiert
+ist: **Der Flaschenhals sind die 1.000 Abonnenten, nicht die Wiedergabezeit.** Wer einem
+passiven Stream zuschaut, abonniert nicht. Wer etwas im Bild auslösen kann, abonniert —
+weil er wiederkommen will, um zu sehen, was er ausgelöst hat.
+
+Interaktion ist außerdem die einzige Einnahmequelle, die **vor** dem Partnerprogramm
+funktioniert. Super Chat und Kanalmitgliedschaften setzen die 1.000 Abos voraus. Ein eigener
+Zahlungsweg über Ko-fi, PayPal oder Streamlabs funktioniert ab Tag eins — und die Marge pro
+Zuschauer liegt dort um Größenordnungen über Werbeeinnahmen.
+
+### Die Regel, die über Erfolg oder Misserfolg entscheidet
+
+**Kostenlose Interaktion muss es auch geben.** Ein reines Bezahl-Trigger-System tötet die
+Community, die die Abos erzeugt. Das Modell, das funktioniert:
+
+| | Freie Zuschauer | Zahlende |
+|---|---|---|
+| Auslösen | ja, mit Cooldown (z. B. 1× pro 30 Min.) | ja, sofort |
+| Warteschlange | normal | Vorrang |
+| Overlay | Name in der Queue | Name hervorgehoben |
+
+Der Zahlende kauft **Priorität und Sichtbarkeit**, nicht exklusiven Zugang.
+
+### Technische Umsetzung
+
+Beide Wege laufen über denselben Endpunkt auf dem Mini-PC:
+
+- **Vor dem Partnerprogramm:** Streamlabs oder StreamElements liefern Spenden-Events per
+  Webhook bzw. Websocket. Ein kleiner Dienst auf dem Mini-PC nimmt das Event an, prüft die
+  Limits und schickt den Auslösebefehl an den Mikrocontroller.
+- **Nach dem Partnerprogramm:** Super Chats über die YouTube Live Streaming API
+  (`liveChatMessages` abfragen, `superChatEvent` auswerten). Gleicher Endpunkt, zweite
+  Quelle.
+- **Freie Trigger:** Chatbefehle aus demselben Live-Chat-Feed, z. B. `!futter`, mit
+  Cooldown pro Nutzer.
+
+Der Mikrocontroller (ESP32, ca. 12 €) hängt am WLAN oder per USB am Mini-PC und steuert den
+Motor. **Wichtig: die Limits gehören in den Mikrocontroller, nicht nur in die Software.**
+Ein Firmware-seitiges Hard-Limit („nie mehr als X Auslösungen pro Stunde, egal was der PC
+sagt") ist die Absicherung gegen einen Softwarefehler, der nachts 5 kg Futter ausschüttet.
+
+### Wenn es Vogelfutter sein soll: die Auflagen
+
+Ein Futterspender, der auf Zahlung reagiert, ist mechanisch der einfachste Fall — und
+tierschutzrechtlich der heikelste. Die Fütterung darf nicht davon abhängen, ob jemand zahlt.
+
+- **Grundration unabhängig vom System.** Bei Sonnenaufgang wird automatisch eine feste Menge
+  ausgegeben, ohne dass jemand etwas auslöst. Das ist die Versorgung; alles andere ist
+  Zusatz.
+- **Harte Tagesobergrenze.** Ein Futterplatz mit ~20 Vögeln verbraucht rund 300 g am Tag.
+  Setz das Limit darunter, z. B. 15 g pro Auslösung und maximal 20 Auslösungen am Tag,
+  saisonal angepasst (im Sommer deutlich weniger).
+- **Überschuss wandert in die Warteschlange, nicht in den Trichter.** Wer nachts auslöst,
+  bekommt einen Platz in der Queue für den Sonnenaufgang. Das ist nicht nur korrekt, es ist
+  besseres Fernsehen: Ein Overlay mit Warteschlange und Countdown bis Sonnenaufgang erzeugt
+  Vorfreude, wo sonst totes Bild wäre.
+- **Hygiene.** Ausgegebenes Futter fällt auf ein Gittertablett mit offenem Boden, damit
+  nichts durchnässt und schimmelt. Wöchentlich reinigen.
+
+Mechanik: Schneckenförderer (3D-gedruckt) an einem NEMA-17-Schrittmotor, Vorratsbehälter
+darüber, Wägezelle darunter für die Füllstandsanzeige im Overlay. Aufpreis zum Terrassenplan
+rund **100–120 €**.
+
+### Was du auf keinen Fall bauen solltest
+
+**Kein Bezahlen für eine Gewinnchance.** Greifautomat, Münzschieber, Lostrommel — alles, wo
+Geld gegen die Chance auf einen Gewinn getauscht wird, fällt in Deutschland unter den
+Glücksspielstaatsvertrag. Das ist ein Genehmigungs- und Strafrechtsthema, kein
+Formalienthema. Der Auslöser muss immer eine **garantierte** Wirkung haben.
+
+**Und: nenn es nicht Spende.** Wenn es eine feste Gegenleistung gibt — dein Name im Bild,
+die Mechanik läuft —, ist das umsatzsteuerlich ein Leistungsaustausch und keine Spende. Es
+ist steuerpflichtiger Umsatz. Unter der Kleinunternehmerregelung (§ 19 UStG, seit 2025:
+Vorjahr bis 25.000 €, laufendes Jahr bis 100.000 €) ist das unproblematisch, aber die
+Bezeichnung muss stimmen. Nenn es „Unterstützung" oder „Trigger", nicht „Spende".
+
+---
+
+## 9. Was sonst 24/7 läuft — die Alternativen zum Vogelfutterhaus
+
+Das eigentliche Problem des Vogelstreams ist nicht die Technik, sondern **totes Bild**.
+Nachts, bei Regen und im Hochsommer sitzt da nichts. Wer um drei Uhr morgens reinschaut,
+sieht eine leere Stange — und geht wieder.
+
+Eine Maschine hat dieses Problem nicht. Und weil du Roboter bauen kannst, ist das der
+Hebel, den du tatsächlich hast. Die Achse, nach der du auswählen solltest, ist nicht
+„interessant", sondern **Mechanik-Risiko**: Was bei einem Dauerlauf klemmen kann, klemmt.
+Und zwar nachts um vier, wenn niemand hinschaut.
+
+| Konzept | Bild immer aktiv | Ausfallrisiko | Interaktion | Kosten |
+|---|---|---|---|--:|
+| **Sandtisch (Sisyphus)** | ja | sehr niedrig | Muster + Name in den Sand | 350–450 € |
+| Ameisenfarm | ja, langsam | keine (keine Mechanik) | Fütterung auslösen | 150–250 € |
+| Aquarium | ja | niedrig | Fütterung, mit hartem Cap | 400–700 € |
+| Zeichenroboter / Plotter | ja | mittel — Stift, Papiernachschub | Wort einreichen | 250–400 € |
+| Kugelbahn / Murmelmaschine | ja | **hoch** — ein Klemmer beendet alles | Kugel freigeben | 200–400 € |
+| Modelleisenbahn | ja | **hoch** — Entgleisung | Weiche stellen | 500–1.500 € |
+| Vogelfutter + Spender | **nein, lückenhaft** | niedrig | Futter auslösen | 645–665 € |
+
+### Meine Empfehlung: der Sandtisch
+
+Eine Stahlkugel wird von einem Magneten unter der Platte durch feinen Sand gezogen und
+zeichnet endlose Muster. Zwei Schrittmotoren, ein Magnet, eine Kugel — mehr bewegt sich
+nicht. Es gibt nichts, was klemmen kann, und wenn ein Muster fertig ist, glättet die Kugel
+die Fläche und beginnt das nächste.
+
+Warum das der stärkste Kandidat ist:
+
+- **Nie totes Bild.** Rund um die Uhr Bewegung, ohne Wetter, ohne Jahreszeit.
+- **Es steht drinnen.** Damit fallen sämtliche Probleme des Terrassenplans weg: kein Regen,
+  kein Nachbargrundstück im Bild, kein § 201 StGB, kein Diebstahl, Steckdose und LAN sind da.
+- **Die Belohnung ist perfekt.** „Dein Name wird in den Sand geschrieben, dann wieder
+  weggewischt" ist ein besseres Trinkgeld-Produkt als jedes Overlay. Vergänglichkeit ist
+  genau der Reiz.
+- **Es trifft die Nische.** Sleep, Focus, ASMR, Zen — dieselbe Kategorie, die der X-Beitrag
+  „Brainrot" nennt, nur ohne Tiere und ohne Rechtsfragen.
+- **Es ist ein Roboterprojekt.** Genau das, was du bauen willst.
+- **Tonspur inklusive.** Das Rascheln der Kugel im Sand mit einem ordentlichen Mikrofon ist
+  der eigentliche Grund, warum Leute so etwas nachts laufen lassen.
+
+Als Ausgangspunkte für den Bau: das offene **ZenXY**-Design (CoreXY-Kinematik unter einer
+Sandplatte), als Steuerung Marlin oder GRBL, als Muster das verbreitete
+**Theta-Rho-Format** (`.thr`) aus der Sisyphus-Community — davon gibt es tausende fertige
+Muster. Eine eigene Warteschlange, die `.thr`-Dateien abarbeitet und Namen als Pfad
+generiert, ist überschaubarer Code.
+
+### Kostenschätzung Sandtisch
+
+| Position | € |
+|---|--:|
+| 2× NEMA-17-Schrittmotor + Treiber | 40 |
+| Controllerboard + ESP32 | 35 |
+| Riemen, Lager, Wellen, Aluprofile | 70 |
+| Neodym-Magnet, Stahlkugel, Quarzsand fein | 20 |
+| Gehäuse, Rundplatte, Holz | 50 |
+| WS2812-LED-Ring (Streiflicht — ohne das sieht man die Rillen nicht) | 20 |
+| Netzteil | 20 |
+| Mikrofon + USB-Interface | 70 |
+| Kamera über Kopf (USB-Kamera mit H.264-Ausgabe) | 60 |
+| Mini-PC gebraucht | 110 |
+| **Summe** | **495** |
+
+Laufende Kosten: rund 4 € Strom im Monat. Kein Futter, kein Wetter, kein Verschleißteil
+außer dem Sand.
+
+**Das LED-Streiflicht ist die Position, die man unterschätzt.** Sand von oben beleuchtet
+sieht flach und langweilig aus; flach von der Seite beleuchtet wirft jede Rille einen
+Schatten, und daraus entsteht das Bild, wegen dem Leute bleiben.
+
+### Wenn eine Maschine 24/7 unbeaufsichtigt läuft
+
+Ein Punkt, der bei allen Maschinenvarianten dazugehört und den man leicht übersieht:
+ordentliches Netzteil mit CE-Kennzeichnung, Rauchmelder im Raum, und eine smarte Steckdose
+mit Verbrauchsmessung und Abschaltschwelle. Ein blockierter Schrittmotor zieht Strom und
+wird heiß. Die Abschaltung kostet 20 € und ist die billigste Versicherung im ganzen Projekt.
+
+### Die Kombination, die ich bauen würde
+
+1. **Sandtisch drinnen** als Hauptstream — läuft sofort, ohne Genehmigung, ohne Wetter,
+   ohne Wartezeit auf Vögel, und mit dem Belohnungssystem ab Tag eins.
+2. **Vogelkamera auf der Terrasse** als zweiter Kanal oder zweite Szene, sobald die
+   Futterstelle angenommen ist — sie liefert die entspannten Wiedergabestunden.
+3. **Wildkamera im Wald** als Shorts-Zulieferer für die Abos.
+
+Drei Quellen, ein Aufwand: Die Wiedergabezeit kommt aus den Dauerstreams, die Abos aus
+Shorts und Interaktion, das Geld anfangs aus Trinkgeld statt Werbung. Das ist derselbe
+Mechanismus wie im X-Beitrag, nur ohne die Behauptung, dass es 7.000 $ werden.
+
+---
+
+## 10. Was ich von dir brauche
 
 Schick mir die Fotos, dann konkretisiere ich Kameraposition, Blickrichtung und Kabelweg.
 Hilfreich wären:
@@ -361,9 +619,15 @@ Dazu vier Angaben:
 - **Miete oder Eigentum** — darf gebohrt werden?
 - Kommen jetzt schon Vögel auf die Terrasse, und gibt es Katzen in der Nachbarschaft?
 
+Für den Sandtisch brauche ich keine Fotos — nur die Angabe, ob du 3D-Druck zur Verfügung
+hast und wie groß die Platte werden soll. 40 cm Durchmesser ist der übliche Einstieg, 60 cm
+sieht deutlich besser aus und kostet kaum mehr.
+
 **Der eine Schritt, den du sofort machen kannst, ohne auf mich zu warten:** Futtersäule
 aufstellen und füttern. Die sechs Wochen Gewöhnungszeit laufen sonst parallel zu nichts,
-und sie sind der einzige Teil des Plans, den man nicht abkürzen kann.
+und sie sind der einzige Teil des Plans, den man nicht abkürzen kann. Wenn der Sandtisch
+dein Hauptprojekt wird, läuft das trotzdem nebenher — die Vogelkamera bleibt die billigste
+zweite Szene, die du haben kannst.
 
 ---
 
